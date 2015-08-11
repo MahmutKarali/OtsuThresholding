@@ -1,0 +1,27 @@
+c:\users\mahmut\documents\visual studio 2013\Projects\Otsu\Otsu\bin\Debug\Otsu.exe.config
+c:\users\mahmut\documents\visual studio 2013\Projects\Otsu\Otsu\bin\Debug\Otsu.exe
+c:\users\mahmut\documents\visual studio 2013\Projects\Otsu\Otsu\bin\Debug\Otsu.pdb
+c:\users\mahmut\documents\visual studio 2013\Projects\Otsu\Otsu\obj\Debug\Otsu.csprojResolveAssemblyReference.cache
+c:\users\mahmut\documents\visual studio 2013\Projects\Otsu\Otsu\obj\Debug\Otsu.Form1.resources
+c:\users\mahmut\documents\visual studio 2013\Projects\Otsu\Otsu\obj\Debug\Otsu.Properties.Resources.resources
+c:\users\mahmut\documents\visual studio 2013\Projects\Otsu\Otsu\obj\Debug\Otsu.csproj.GenerateResource.Cache
+c:\users\mahmut\documents\visual studio 2013\Projects\Otsu\Otsu\obj\Debug\Otsu.exe
+c:\users\mahmut\documents\visual studio 2013\Projects\Otsu\Otsu\obj\Debug\Otsu.pdb
+C:\Görüntü işleme\2015 Ödevlerim\30.04.2015\Otsu-Labelling-Moment\Otsu\bin\Debug\Otsu.exe.config
+C:\Görüntü işleme\2015 Ödevlerim\30.04.2015\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.exe
+C:\Görüntü işleme\2015 Ödevlerim\30.04.2015\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.pdb
+C:\Görüntü işleme\2015 Ödevlerim\30.04.2015\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.csprojResolveAssemblyReference.cache
+C:\Görüntü işleme\2015 Ödevlerim\30.04.2015\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.Form1.resources
+C:\Görüntü işleme\2015 Ödevlerim\30.04.2015\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.Properties.Resources.resources
+C:\Görüntü işleme\2015 Ödevlerim\30.04.2015\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.csproj.GenerateResource.Cache
+C:\Görüntü işleme\2015 Ödevlerim\30.04.2015\Otsu-Labelling-Moment\Otsu\bin\Debug\Otsu.exe
+C:\Görüntü işleme\2015 Ödevlerim\30.04.2015\Otsu-Labelling-Moment\Otsu\bin\Debug\Otsu.pdb
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\bin\Debug\Otsu.exe.config
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.exe
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.pdb
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.csprojResolveAssemblyReference.cache
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.Form1.resources
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.Properties.Resources.resources
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.csproj.GenerateResource.Cache
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\bin\Debug\Otsu.exe
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\bin\Debug\Otsu.pdb
