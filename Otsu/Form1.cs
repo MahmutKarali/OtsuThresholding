@@ -6,22 +6,18 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
-
+using System.Windows.Forms; 
 
 namespace Otsu
 {
     public partial class Form1 : Form
-    {
-
+    { 
         Bitmap bitmap, bitmap2 ;
         Image file;
-        int[] histogram = new int[256];
-        int[,] PureImage;
+        int[] histogram = new int[256]; 
         public Form1()
         {
-            InitializeComponent();
-
+            InitializeComponent(); 
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -134,8 +130,7 @@ namespace Otsu
                     bitmap2.SetPixel(i, j, Color.FromArgb(Threshold, Threshold, Threshold));
                 }
             }
-            pictureBox2.Image = bitmap2;
-        
+            pictureBox2.Image = bitmap2; 
         } 
 
         private void Form1_Load(object sender, EventArgs e)
