@@ -135,6 +135,7 @@ namespace Otsu
                 }
             }
             pictureBox2.Image = bitmap2;
+        
         } 
 
         private void Form1_Load(object sender, EventArgs e)
