@@ -6,6 +6,8 @@ Thresholding is a very basic operation in image processing. And, a good algorith
 
 Advantages
 • Speed: Because Otsu threshold operates on histograms (which are integer or float arrays of length 256), it’s quite fast.
+
+
 • Ease of coding: Approximately 80 lines of very easy stuff.
  
  
