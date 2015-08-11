@@ -14,7 +14,7 @@ namespace Otsu
     public partial class Form1 : Form
     {
 
-        Bitmap bitmap, bitmap2, bitmap3, bitmap4;
+        Bitmap bitmap, bitmap2 ;
         Image file;
         int[] histogram = new int[256];
         int[,] PureImage;
@@ -135,21 +135,7 @@ namespace Otsu
                 }
             }
             pictureBox2.Image = bitmap2;
-        }
-
-
-
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-           
-        }
-
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            
-        }
+        } 
 
         private void Form1_Load(object sender, EventArgs e)
         {

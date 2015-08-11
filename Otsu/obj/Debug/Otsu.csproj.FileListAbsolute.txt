@@ -25,3 +25,12 @@ C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.Prop
 C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\obj\Debug\Otsu.csproj.GenerateResource.Cache
 C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\bin\Debug\Otsu.exe
 C:\Users\mahmut\Desktop\bitBucket\Otsu-Labelling-Moment\Otsu\bin\Debug\Otsu.pdb
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Threshold\Otsu\bin\Debug\Otsu.exe.config
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Threshold\Otsu\obj\Debug\Otsu.exe
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Threshold\Otsu\obj\Debug\Otsu.pdb
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Threshold\Otsu\bin\Debug\Otsu.exe
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Threshold\Otsu\bin\Debug\Otsu.pdb
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Threshold\Otsu\obj\Debug\Otsu.csprojResolveAssemblyReference.cache
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Threshold\Otsu\obj\Debug\Otsu.Form1.resources
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Threshold\Otsu\obj\Debug\Otsu.Properties.Resources.resources
+C:\Users\mahmut\Desktop\bitBucket\Otsu-Threshold\Otsu\obj\Debug\Otsu.csproj.GenerateResource.Cache
